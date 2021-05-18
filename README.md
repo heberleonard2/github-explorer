@@ -1,5 +1,5 @@
 <h4 align="center">
-  Quotes
+  Github Explorer
 </h4>
 
 <p align="center">
