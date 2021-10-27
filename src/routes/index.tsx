@@ -6,10 +6,10 @@ import Repository from '../pages/Repository';
 
 const Routes: React.FC = () => (
   // Switch -> Exibir apenas uma rota
-  <Switch>
+
     <Route path="/" exact component={Dashboard} />
     <Route path="/repositories/:repository+" component={Repository} />
-  </Switch>
+
 );
 
 export default Routes;
